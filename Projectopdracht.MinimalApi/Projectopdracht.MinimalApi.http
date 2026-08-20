@@ -1,0 +1,6 @@
+@Projectopdracht.MinimalApi_HostAddress = http://localhost:5010
+
+GET {{Projectopdracht.MinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
